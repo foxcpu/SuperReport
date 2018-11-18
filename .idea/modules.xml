@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/report-urepot/report-urepot.iml" filepath="$PROJECT_DIR$/report-urepot/report-urepot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ureport-master.iml" filepath="$PROJECT_DIR$/.idea/ureport-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ureport2-console/ureport2-console.iml" filepath="$PROJECT_DIR$/ureport2-console/ureport2-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ureport2-core/ureport2-core.iml" filepath="$PROJECT_DIR$/ureport2-core/ureport2-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ureport2-font/ureport2-font.iml" filepath="$PROJECT_DIR$/ureport2-font/ureport2-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ureport2-parent/ureport2-parent.iml" filepath="$PROJECT_DIR$/ureport2-parent/ureport2-parent.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="report-urepot:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81e1a97f-2f42-4f09-866f-f76698c9c62a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/ureport2-font/target/" />
+    <ignored path="$PROJECT_DIR$/ureport2-parent/target/" />
+    <ignored path="$PROJECT_DIR$/ureport2-core/target/" />
+    <ignored path="$PROJECT_DIR$/ureport2-console/target/" />
+    <ignored path="$PROJECT_DIR$/ureport2reporttest/target/" />
+    <ignored path="$PROJECT_DIR$/report.ureport/target/" />
+    <ignored path="$PROJECT_DIR$/report-urepot/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="designer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/designer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="524" column="13" lean-forward="false" selection-start-line="524" selection-start-column="7" selection-end-line="524" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertyPanel.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/PropertyPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="50" column="53" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+              <folding>
+                <element signature="e#47#111#0" expanded="true" />
+                <marker date="1542547393666" expanded="true" signature="1659:1670" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="3919:3976" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="3977:4146" ph="..." />
+                <marker date="1542547393666" expanded="false" signature="4002:4086" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="4208:4225" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="4251:4281" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="4537:4592" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="4828:4845" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="5016:5093" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="5094:5449" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="5785:5850" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="6545:6581" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="6731:6767" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="6939:7015" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="7016:7752" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="12647:12664" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="12851:12868" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="13124:13141" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="13411:13504" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="13669:13762" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="15425:15442" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="15626:15643" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="15872:15889" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="16132:16226" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="16388:16481" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="19767:19784" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="19923:19971" ph="..." />
+                <marker date="1542547393666" expanded="true" signature="20125:20137" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoubleValueEditor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/DoubleValueEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <marker date="1542548427355" expanded="true" signature="1390:1467" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1032">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignerServletAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-console/src/main/java/com/bstek/ureport/console/designer/DesignerServletAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2214">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReportParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/parser/ReportParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1998">
+              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleValueEditor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/SimpleValueEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1525860098000" expanded="true" signature="1023:1075" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="1274:1351" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatasetValueEditor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/DatasetValueEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16524">
+              <caret line="620" column="28" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="28" />
+              <folding>
+                <marker date="1525860098000" expanded="true" signature="599:611" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="863:1239" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="1983:2019" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2151:2225" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2394:2446" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2580:2655" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="3786:3806" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="3946:4023" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="4024:4688" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="4833:4898" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="6259:6279" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="6414:6431" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="6761:6778" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="7102:7119" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="7480:7500" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="7635:7652" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="7993:8010" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="8355:8372" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="9035:9087" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="9298:9375" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="13584:13604" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="13661:13673" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="14031:14045" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="14892:14909" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="16512:16529" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="17578:17595" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="17692:17711" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="17899:17916" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="18425:18442" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="18943:18959" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="19110:19123" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="19225:19240" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="19710:19722" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="19777:19799" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="19870:19892" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="20077:20099" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="20232:20263" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="20724:20741" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="20788:20819" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21261:21300" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21313:21348" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21407:21442" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21504:21526" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21635:21650" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21834:21850" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="21984:22020" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="22159:22233" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="22425:22477" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="22626:22701" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="22907:22959" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="23113:23188" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="30307:30319" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="30370:30392" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="30456:30478" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="30643:30665" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="30790:30821" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="31243:31260" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="31307:31338" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionValueEditor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/ExpressionValueEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1525860098000" expanded="true" signature="888:914" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2006:2026" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2158:2175" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2513:2530" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2872:2889" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseValueEditor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/BaseValueEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1525860098000" expanded="true" signature="299:332" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="467:484" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="721:738" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="1441:1458" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="1639:1714" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="2886:2905" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="3046:3063" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="3355:3372" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="4525:4544" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="4682:4759" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="6070:6089" ph="..." />
+                <marker date="1525860098000" expanded="true" signature="6368:6415" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loadReport</find>
+      <find>loadreport</find>
+      <find>parse</find>
+      <find>datasources</find>
+      <find>DatasourceParser</find>
+      <find>属性</find>
+      <find>数据源</find>
+      <find>panel</find>
+      <find>UReportDesigner</find>
+      <find>PropertyPanel</find>
+      <find>designer</find>
+      <find>打印线</find>
+      <find>buildPropertyPanel</find>
+      <find>普通文本</find>
+      <find>image</find>
+      <find>datasourcePanel</find>
+      <find>property</find>
+      <find>simple</find>
+      <find>lineHeightEditor</find>
+      <find>double</find>
+      <find>cellStyle</find>
+      <find>聚合方式</find>
+      <find>aggregateType</find>
+      <find>aggregateSelect</find>
+      <find>show</find>
+      <find>_buildCellType</find>
+      <find>leftParent</find>
+      <find>_buildParentCell</find>
+      <find>parentGroup</find>
+      <find>text</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\report\ureport-master\ureport-master</dir>
+      <dir>D:\report\ureport-master\ureport-master\ureport2-js\public</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ureport2reporttest/pom.xml" />
+        <option value="$PROJECT_DIR$/ureport2reporttest/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/report.ureport/pom.xml" />
+        <option value="$PROJECT_DIR$/report.ureport/src/main/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ureport2-console/pom.xml" />
+        <option value="$PROJECT_DIR$/ureport2-core/pom.xml" />
+        <option value="$PROJECT_DIR$/ureport2-font/pom.xml" />
+        <option value="$PROJECT_DIR$/report-urepot/pom.xml" />
+        <option value="$PROJECT_DIR$/report-urepot/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/datasource/DatasourceType.java" />
+        <option value="$PROJECT_DIR$/ureport2-console/src/main/java/com/bstek/ureport/console/designer/DesignerServletAction.java" />
+        <option value="$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/datasource/ZbDatasourceDefinition.java" />
+        <option value="$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/parser/impl/DatasourceParser.java" />
+        <option value="$PROJECT_DIR$/ureport2-js/src/panel/property/SimpleValueEditor.js" />
+        <option value="$PROJECT_DIR$/ureport2-js/src/panel/property/DoubleValueEditor.js" />
+        <option value="$PROJECT_DIR$/ureport2-js/src/i18n/designer.json" />
+        <option value="$PROJECT_DIR$/ureport2-js/src/panel/PropertyPanel.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ureport2-js/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="241" />
+    <option name="y" value="25" />
+    <option name="width" value="1112" />
+    <option name="height" value="550" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ureport2-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ureport2-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ureport2-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ureport2-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ureport-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ureport-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ureport2-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="panel" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/report.ureport" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\report\ureport-master\ureport-master\report.ureport\src\main\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Java\jdk1.8.0_91\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/ureport2-parent">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ureport-master" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61619" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="" />
+          <option name="VALUE" value="" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration name="report" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Java\jdk1.8.0_91\jre">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="report-urepot:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ureport-master_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61619" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="JAVA_TOOL_OPTIONS" />
+          <option name="VALUE" value="-Dfile.encoding=UTF-8" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method>
+        <option name="MakeProject" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="report-urepot:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e1a97f-2f42-4f09-866f-f76698c9c62a" name="Default" comment="" />
+      <created>1526201068610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526201068610</updated>
+      <workItem from="1526201070300" duration="449000" />
+      <workItem from="1526201911488" duration="863000" />
+      <workItem from="1526391846926" duration="529000" />
+      <workItem from="1526731208893" duration="1907000" />
+      <workItem from="1526994235762" duration="8826000" />
+      <workItem from="1527257657686" duration="19664000" />
+      <workItem from="1527563966764" duration="27000" />
+      <workItem from="1527996536882" duration="1242000" />
+      <workItem from="1528614705216" duration="2708000" />
+      <workItem from="1541859878060" duration="8429000" />
+      <workItem from="1542444513022" duration="2091000" />
+      <workItem from="1542541502597" duration="5412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52147000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5409836" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44262296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5409836" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22474378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36626917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/parser/impl/DatasourceParser.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/dataset/DatasetDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/build/Dataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-font/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4430">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-console/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report-urepot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3202">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report-urepot/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/ReportDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6723">
+          <caret line="316" column="25" lean-forward="false" selection-start-line="316" selection-start-column="16" selection-end-line="316" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-console/src/main/java/com/bstek/ureport/console/designer/ReportDefinitionWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="44" column="11" lean-forward="false" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/datasource/DatasourceDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1.jar!/com/bstek/ureport/definition/datasource/JdbcDatasourceDefinition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="107" column="46" lean-forward="false" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/definition/datasource/JdbcDatasourceDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1.jar!/com/bstek/ureport/parser/impl/DatasourceParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/datasource/JdbcDatasourceDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/parser/impl/DatasourceParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/datasource/ZbDatasourceDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/export/ReportRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="89" column="62" lean-forward="false" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/AbstractElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9666">
+          <caret line="416" column="0" lean-forward="false" selection-start-line="416" selection-start-column="0" selection-end-line="416" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/expression/ExpressionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="130" column="29" lean-forward="false" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/expression/model/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/parser/ReportParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/definition/dataset/SqlDatasetDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/definition/dataset/SqlDatasetDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/provider/report/file/FileReportProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/bstek/ureport/ureport2-core/2.0.1/ureport2-core-2.0.1-sources.jar!/com/bstek/ureport/export/ReportRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/parser/impl/DatasourceParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="81" column="34" lean-forward="false" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/ureport-html/html-preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/template/template.ureport.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/form/Palette.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1755">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/ureport-asserts/js/designer.bundle.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1157">
+          <caret line="0" column="5983090" lean-forward="false" selection-start-line="0" selection-start-column="5983090" selection-end-line="0" selection-end-column="5983090" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/ureport-html/designer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/ureport-asserts/js/designer.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932861">
+          <caret line="148103" column="9069" lean-forward="false" selection-start-line="148103" selection-start-column="9053" selection-end-line="148103" selection-end-column="9069" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/public/ureport-asserts/js/preview.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33949" column="4" lean-forward="false" selection-start-line="33949" selection-start-column="4" selection-end-line="33949" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/designer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/designer_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2916">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/preview.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/preview_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/Utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="93" column="8" lean-forward="false" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/ZxingValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1525860098000" expanded="true" signature="1048:1083" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1519:1536" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1664:1698" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2350:2385" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2386:2877" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3381:3398" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3399:3515" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3852:3869" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3870:3985" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4434:4467" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4468:4646" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="5504:5551" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6075:6101" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7167:7187" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7320:7337" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7681:7698" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="8046:8063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-console/src/main/java/com/bstek/ureport/console/designer/DesignerServletAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/parser/ReportParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/SimpleValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1525860098000" expanded="true" signature="1023:1075" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1274:1351" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/DatasetValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16524">
+          <caret line="620" column="28" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="28" />
+          <folding>
+            <marker date="1525860098000" expanded="true" signature="599:611" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="863:1239" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1983:2019" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2151:2225" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2394:2446" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2580:2655" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3786:3806" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3946:4023" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4024:4688" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4833:4898" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6259:6279" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6414:6431" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6761:6778" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7102:7119" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7480:7500" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7635:7652" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="7993:8010" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="8355:8372" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="9035:9087" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="9298:9375" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="13584:13604" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="13661:13673" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="14031:14045" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="14892:14909" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="16512:16529" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="17578:17595" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="17692:17711" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="17899:17916" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="18425:18442" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="18943:18959" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="19110:19123" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="19225:19240" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="19710:19722" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="19777:19799" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="19870:19892" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="20077:20099" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="20232:20263" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="20724:20741" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="20788:20819" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21261:21300" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21313:21348" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21407:21442" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21504:21526" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21635:21650" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21834:21850" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="21984:22020" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="22159:22233" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="22425:22477" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="22626:22701" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="22907:22959" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="23113:23188" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="30307:30319" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="30370:30392" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="30456:30478" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="30643:30665" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="30790:30821" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="31243:31260" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="31307:31338" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/ExpressionValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1525860098000" expanded="true" signature="888:914" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2006:2026" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2158:2175" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2513:2530" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2872:2889" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/BaseValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1525860098000" expanded="true" signature="299:332" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="467:484" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="721:738" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1441:1458" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="1639:1714" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="2886:2905" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3046:3063" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="3355:3372" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4525:4544" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="4682:4759" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6070:6089" ph="..." />
+            <marker date="1525860098000" expanded="true" signature="6368:6415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1032">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/property/DoubleValueEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <marker date="1542548427355" expanded="true" signature="1390:1467" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/i18n/designer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="524" column="13" lean-forward="false" selection-start-line="524" selection-start-column="7" selection-end-line="524" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ureport2-js/src/panel/PropertyPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="50" column="53" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+          <folding>
+            <element signature="e#47#111#0" expanded="true" />
+            <marker date="1542547393666" expanded="true" signature="1659:1670" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="3919:3976" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="3977:4146" ph="..." />
+            <marker date="1542547393666" expanded="false" signature="4002:4086" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="4208:4225" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="4251:4281" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="4537:4592" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="4828:4845" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="5016:5093" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="5094:5449" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="5785:5850" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="6545:6581" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="6731:6767" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="6939:7015" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="7016:7752" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="12647:12664" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="12851:12868" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="13124:13141" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="13411:13504" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="13669:13762" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="15425:15442" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="15626:15643" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="15872:15889" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="16132:16226" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="16388:16481" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="19767:19784" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="19923:19971" ph="..." />
+            <marker date="1542547393666" expanded="true" signature="20125:20137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>reporttest:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>report-urepot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
